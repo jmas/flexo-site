@@ -1,0 +1,23 @@
+pre.sh_js,
+pre.sh_php,
+pre.sh_css,
+pre.sh_sql,
+pre.sh_html,
+pre.code {
+	width:96%;
+	overflow:auto;
+	padding:2%;
+	background:#efefef;
+	border-left:3px solid #e7431d;
+	font:90% Lucida Console, Monaco, Courier New, Courier, monospace;
+	margin:2em 0;
+	line-height:1.8em;
+}
+
+code.inline-code,
+span.inline-code,
+p.inline-code {
+	font:90% Lucida Console, Monaco, Courier New, Courier, monospace;
+	background-color:#efefef;
+	padding:.2em .3em;
+}

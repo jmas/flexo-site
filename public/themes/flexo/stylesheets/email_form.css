@@ -1,0 +1,9 @@
+#contactsForm p {
+	overflow:hidden;
+}
+
+#contactsForm label {
+	display:block;
+	float:left;
+	width:150px;
+}

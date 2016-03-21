@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /cms/
+Disallow: /install/
+Disallow: /layouts/
+Disallow: /snippets/
+Disallow: /screenshots-content.xml

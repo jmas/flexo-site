@@ -1,0 +1,1 @@
+<?php die; ?><ul class="gg-list"></ul>
